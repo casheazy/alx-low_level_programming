@@ -1,0 +1,12 @@
+#include <stdio.h>
+/**
+ * main-prints a string using printf
+ *
+ * Return: returns value of 0 if successful
+ */
+int main(void)
+{
+char str[] = "with proper grammar, but the outcone is a piece of art";
+printf(str);
+return (0);
+}
