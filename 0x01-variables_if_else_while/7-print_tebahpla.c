@@ -2,7 +2,7 @@
 /**
  *main - prints letters of aplhabet in reverse order
  *
- *Returns: returns value of 0
+ *Return: returns value of 0
  */
 int main(void)
 {
